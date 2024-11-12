@@ -15,7 +15,10 @@
 			<!--<class name="testcases.TC003_Test_BrokenPage">-->
 
 			<!--<class name="testcases.TC004_Test_CheckBoxPage">-->
-			<class name="testcases.TC005_Test_ContextMenuePage">
+			<!-- <class name="testcases.TC005_Test_ContextMenuePage">-->
+
+			<!-- <class name="testcases.TC006_Test_DragAndDrop">-->
+			<class name="testcases.TC007_Test_DropDown">
 				<!-- <methods>
 					 <include name="AddandRemoveElement"/>
 					<include name="AddMultipleElementsandRemoveOne"></include>

@@ -8,13 +8,12 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testcases.TC004_Test_CheckBoxPage">
+      <class name="testcases.TC007_Test_DropDown">
         <methods>
-          <include name="testCheckBox1"/>
           <include name="setup"/>
-          <include name="testCheckBox2"/>
+          <include name="testDropDownList"/>
         </methods>
-      </class> <!-- testcases.TC004_Test_CheckBoxPage -->
+      </class> <!-- testcases.TC007_Test_DropDown -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

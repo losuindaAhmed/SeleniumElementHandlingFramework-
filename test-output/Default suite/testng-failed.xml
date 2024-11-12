@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.TC01_Test_AddRemoveTestcases">
+      <class name="testcases.TC006_Test_DragAndDrop">
         <methods>
           <include name="setup"/>
-          <include name="testAddElement"/>
+          <include name="testDragDropFunction"/>
         </methods>
-      </class> <!-- testcases.TC01_Test_AddRemoveTestcases -->
+      </class> <!-- testcases.TC006_Test_DragAndDrop -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

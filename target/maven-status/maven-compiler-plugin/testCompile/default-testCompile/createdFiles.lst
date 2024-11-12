@@ -1,0 +1,15 @@
+testcases\TC005_Test_ContextMenuePage.class
+testcases\TC01_Test_AddRemoveTestcases.class
+pageobjects\BasicAuthPage.class
+testcases\TC002_Test_BasicAuth.class
+pageobjects\BasePage.class
+testcases\TC003_Test_BrokenPage.class
+pageobjects\ABTestingPage.class
+testcases\TC004_Test_CheckBoxPage.class
+pageobjects\BrokenImagePage.class
+testcases\BaseTest.class
+testcases\TC00_Test_ABTesting.class
+utilities\ExtentReportManager.class
+pageobjects\CheckBoxesPage.class
+pageobjects\AddRemoveElements.class
+pageobjects\ContextMenuPage.class
