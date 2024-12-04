@@ -1,5 +1,5 @@
 # the-internet.herokuapp 
-##### Automated Acceptance Tests written with Python and Selenium for http://the-internet.herokuapp.com 
+##### Automated Acceptance Tests written with Java and Selenium for http://the-internet.herokuapp.com 
 
 ---
 ## Tested Examples:
